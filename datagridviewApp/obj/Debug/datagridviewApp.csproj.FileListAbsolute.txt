@@ -1,0 +1,10 @@
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\bin\Debug\datagridviewApp.exe.config
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\bin\Debug\datagridviewApp.exe
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\bin\Debug\datagridviewApp.pdb
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\obj\Debug\datagridviewApp.csproj.AssemblyReference.cache
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\obj\Debug\datagridviewApp.Form1.resources
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\obj\Debug\datagridviewApp.Properties.Resources.resources
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\obj\Debug\datagridviewApp.csproj.GenerateResource.cache
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\obj\Debug\datagridviewApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\obj\Debug\datagridviewApp.exe
+C:\Users\DELL-PC\source\repos\datagridviewApp\datagridviewApp\obj\Debug\datagridviewApp.pdb
